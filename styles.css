@@ -1,0 +1,29 @@
+.custom-navbar{
+    height: 60pxpx;
+}
+
+.container-custom{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-custom{
+    background-color: beige;
+}
+.margin-custom{
+    margin-top : 10%;
+
+}
+.margin-footer{
+    margin-top: 17%;
+}
+
+.lien-custom{
+    height: 50px;
+    width: 50px;
+}
+.espaceLigne tr{
+    margin-bottom: 10px;
+}
+
